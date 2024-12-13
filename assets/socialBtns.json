@@ -1,0 +1,34 @@
+{
+    "buttons":[
+        {
+            "isBtn": 1,
+            "texture": "yt.png",
+            "link": "https://youtube.com"
+        },
+        {
+            "isBtn": 0,
+            "texture": "vk.png",
+            "link": "https://google.com"
+        },
+        {
+            "isBtn": 1,
+            "texture": "tch.png",
+            "link": "https://google.com"
+        },
+        {
+            "isBtn": 1,
+            "texture": "ins.png",
+            "link": "https://google.com"
+        },
+        {
+            "isBtn": 1,
+            "texture": "br.png",
+            "link": "https://google.com"
+        },
+        {
+            "isBtn": 1,
+            "texture": "ds.png",
+            "link": "https://vk.com"
+        }
+    ]
+}
